@@ -1,0 +1,9 @@
+.basket{
+    &__item{
+        &__photo{
+            width: 100px;
+            height: 200px;
+            background: center center / contain no-repeat;
+        }
+    }
+}
